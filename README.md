@@ -32,7 +32,7 @@ Customer Complaint
         ↓
 Structured Prompt
         ↓
-        LLM
+       LLM
         ↓
 AI Customer Service Response
         ↓
@@ -56,7 +56,7 @@ The main prompt instructs the AI to:
 7. Keep the response concise.
 8. Maintain a calm and professional tone.
 
-The response is structured into:
+The response follows three main sections:
 
 **1. Empathy → 2. Action → 3. Next Step**
 
@@ -148,7 +148,7 @@ The responses:
 5. Document Results
 ```
 
-This workflow demonstrates a basic prompt engineering process from **prompt design → testing → evaluation → documentation**.
+This project demonstrates a basic prompt engineering workflow from **prompt design → testing → evaluation → documentation**.
 
 ---
 
@@ -179,9 +179,9 @@ I learned that giving an LLM a clear role, specific instructions, response struc
 
 I also learned that testing a prompt against multiple customer scenarios is important because a prompt that works for one situation may not perform equally well in another.
 
-This project helped me practice the complete basic prompt-engineering workflow:
+This project helped me practice the basic prompt engineering workflow:
 
-**Design → Test → Evaluate → Improve → Document**
+**Design → Test → Evaluate → Document**
 
 ---
 
